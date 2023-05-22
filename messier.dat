@@ -1,0 +1,8 @@
+# Basic messier object support
+#
+# Format is (one line per object):
+#
+# Name,texture,right_ascension(radians),declination(radians),magnitude,size(radians)
+#
+Andromeda m31.jpg 0.18631 0.72024 3.4 0.051
+Triangulum m33.jpg 0.40971 0.53494 5.7 0.0142
